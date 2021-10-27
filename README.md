@@ -11,7 +11,7 @@
 
 # Structure
 
-This specific Github repository consists of a setup file which can be used fo the installation.
+This specific Github repository consists of a setup file which can be used for the installation. The setup file is available in a zip file named "Stealth.zip" and can be extracted by using appropriate means.
 
 # Overview
 
