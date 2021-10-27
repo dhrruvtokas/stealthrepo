@@ -19,7 +19,7 @@ Stealth incorporates 3 different features, first one is a media player which can
 
 # Project installation
 
-The software can be installed by using the setup file provided in the repository, the installation process requires any Windows OS.
+First of all, you might want toextract the steal.zip file into your local directory,you can do this either by using WinRAR or your windows explorer (Recommended: WinRAR). The software can be installed by using the setup file extracted from that zip file, the installation process requires any Windows OS.
 
 # Technologies
 
