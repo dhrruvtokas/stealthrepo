@@ -11,7 +11,7 @@
 
 # Structure
 
-This specific Github repository consists of a setup file and a project file, the main setup file can be used fo the installation while the second one is the VisualStudio Project file. 
+This specific Github repository consists of a setup file which can be used fo the installation.
 
 # Overview
 
@@ -24,7 +24,7 @@ The software can be installed by using the setup file provided in the repository
 # Technologies
 
 1. Visual Studio: Visual Studio can be installed and used to make any changes to the Stealth by using the project file.
-2. C#: This software was created using C#.
+2. C#: This application was created by using the C#.
 3. Encryption: Encryption can be accessed by clicking on the "key" window from the main UI/UX panel, users willbe asked to scan a qr code which will redirect them to the encryption application.
 
 # Contributors
